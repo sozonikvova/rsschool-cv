@@ -65,3 +65,26 @@ if (names.length === 0) {
 
 * **"Полный курс по JavaScript + React - с нуля до результата"**  on [Udemy](https://www.udemy.com/share/101WCC3@oS0CbdT9UUGcfqMXPr6ZRL_tOIpD-y-W4SD__Sn2-HV7NaBiO2US7OuAZLqhfS7BnQ==/) (in process)
 
+---
+
+### Languages
+- Ukrainian (native)
+- Russian (common use)
+- English (pre-intermediate)
+---
+### Soft Skills
+- Teamwork
+- Problem-Solving
+- Attention to Detail
+
+---
+### Conclusion
+I am passionate about web development and committed to improving my skills in this area. My background in engineering has given me a strong foundation in technology, adaptability, and communication. I am excited to bring my skills and dedication to a dynamic organization in the web development field
+
+
+
+\
+\
+\
+\
+![RS-School](./icons/logo.svg)
