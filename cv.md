@@ -44,3 +44,23 @@ if (names.length === 0) {
     }
 }
 ```
+---
+
+### Education:
+- Lviv Polytechnic National University, Civil Building and Environmental Engineering. Master's degree
+
+  September 2016 - January 2022 | Lviv, Ukraine 
+
+---
+
+### Work experience:
+- Design engineer at the consulting company **"Trio-consult"** (3 years, remote-work)
+
+---
+### Courses: 
+
+*  **"WEB-разработчик"** on [Udemy](https://www.udemy.com/share/101Wy23@N0_2LUUIQsHu-vefXfMh61zzeOev0ufrXEBkVkjyhkGxTU9pCHW2SIPxMNgTUDDO0g==/) (completed)
+  
+![Udemy-certificate](./img/course-completed.jpg)
+
+* **"Полный курс по JavaScript + React - с нуля до результата"**  on [Udemy](https://www.udemy.com/share/101WCC3@oS0CbdT9UUGcfqMXPr6ZRL_tOIpD-y-W4SD__Sn2-HV7NaBiO2US7OuAZLqhfS7BnQ==/) (in process)
