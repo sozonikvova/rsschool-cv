@@ -12,17 +12,17 @@
 
 ### About me:
 
-Greetings!I’m a 25-year-old front-end development enthusiast from Ukraine. I'm currently diving deeper into web development and really enjoying it. With a strong foundation in JavaScript, HTML, and CSS, I’m excited to create stunning and interactive websites.
+Greetings! I’m a 25-year-old front-end development enthusiast from Ukraine. I'm currently diving deeper into web development and really enjoying it. With a strong foundation in JavaScript, HTML, and CSS, I’m excited to create stunning and interactive websites.
 
 ---
 
 ### Proficiency and Skills: 
-* JavaScript Basics
-* HTML5, CSS3
-* Node.js
-* Git, GitHub
-* VS Code
-* Figma, Pixso, Skecth
+* JavaScript Basics;
+* HTML5, CSS3;
+* Node.js;
+* Git, GitHub;
+* VS Code;
+* Figma, Pixso, Skecth.
 
 ---
 
@@ -47,39 +47,41 @@ if (names.length === 0) {
 ---
 
 ### Education:
-- Lviv Polytechnic National University, Civil Building and Environmental Engineering. Master's degree
+- Lviv Polytechnic National University, Civil Building and Environmental Engineering. Master's degree.
 
   September 2016 - January 2022 | Lviv, Ukraine 
 
 ---
 
 ### Work experience:
-- Design engineer at the consulting company **"Trio-consult"** (3 years, remote-work)
+- Design engineer at the consulting company **"Trio-consult"** (3 years, remote-work).
 
 ---
 ### Courses: 
 
-*  **"WEB-разработчик"** on [Udemy](https://www.udemy.com/share/101Wy23@N0_2LUUIQsHu-vefXfMh61zzeOev0ufrXEBkVkjyhkGxTU9pCHW2SIPxMNgTUDDO0g==/) (completed)
+*  **"WEB-разработчик"** on [Udemy](https://www.udemy.com/share/101Wy23@N0_2LUUIQsHu-vefXfMh61zzeOev0ufrXEBkVkjyhkGxTU9pCHW2SIPxMNgTUDDO0g==/) (completed).
   
 ![Udemy-certificate](./img/course-completed.jpg)
 
-* **"Полный курс по JavaScript + React - с нуля до результата"**  on [Udemy](https://www.udemy.com/share/101WCC3@oS0CbdT9UUGcfqMXPr6ZRL_tOIpD-y-W4SD__Sn2-HV7NaBiO2US7OuAZLqhfS7BnQ==/) (in process)
+* **"Полный курс по JavaScript + React - с нуля до результата"**  on [Udemy](https://www.udemy.com/share/101WCC3@oS0CbdT9UUGcfqMXPr6ZRL_tOIpD-y-W4SD__Sn2-HV7NaBiO2US7OuAZLqhfS7BnQ==/) (in process).
 
 ---
 
-### Languages
-- Ukrainian (native)
-- Russian (common use)
-- English (pre-intermediate)
----
-### Soft Skills
-- Teamwork
-- Problem-Solving
-- Attention to Detail
+### Languages:
+
+- Ukrainian (native);
+- Russian (common use);
+- English (pre-intermediate);
 
 ---
-### Conclusion
-I am passionate about web development and committed to improving my skills in this area. My background in engineering has given me a strong foundation in technology, adaptability, and communication. I am excited to bring my skills and dedication to a dynamic organization in the web development field
+### Soft Skills:
+- Teamwork;
+- Problem-Solving;
+- Attention to Detail;
+
+---
+### Conclusion:
+I am passionate about web development and committed to improving my skills in this area. My background in engineering has given me a strong foundation in technology, adaptability, and communication. I am excited to bring my skills and dedication to a dynamic organization in the web development field.
 
 
 
