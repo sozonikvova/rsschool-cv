@@ -64,3 +64,4 @@ if (names.length === 0) {
 ![Udemy-certificate](./img/course-completed.jpg)
 
 * **"Полный курс по JavaScript + React - с нуля до результата"**  on [Udemy](https://www.udemy.com/share/101WCC3@oS0CbdT9UUGcfqMXPr6ZRL_tOIpD-y-W4SD__Sn2-HV7NaBiO2US7OuAZLqhfS7BnQ==/) (in process)
+
