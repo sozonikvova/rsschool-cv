@@ -3,3 +3,35 @@
 	margin: 0;
 	padding: 0;
 }
+
+.wrapper {
+	width: 1200px;
+	margin: 0 auto;
+	background-color: #fff;
+	box-shadow: 6px 6px 20px 0 rgba(0, 0, 0, 0.1);
+}
+.main-content {
+	padding: 102px 228px 107px 104px;
+}
+
+.about {
+	width: 400px;
+}
+.subtitle {
+	font-weight: 700;
+	font-size: 14px;
+	color: #000;
+}
+.name {
+	margin-top: 19px;
+	font-weight: 700;
+	font-size: 45px;
+	color: #000;
+}
+.text {
+	margin-top: 24px;
+	font-weight: 400;
+	font-size: 14px;
+	line-height: 171%;
+	color: #595959;
+}
