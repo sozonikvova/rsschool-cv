@@ -35,3 +35,26 @@
 	line-height: 171%;
 	color: #595959;
 }
+
+.projects {
+	margin-top: 40px;
+	width: 485px;
+}
+.title {
+	font-weight: 700;
+	font-size: 22px;
+	color: #000;
+}
+.project__list {
+	width: 485px;
+}
+.project__item {
+	margin-top: 5px;
+	font-weight: 700;
+	font-size: 14px;
+	line-height: 24px;
+	color: #000000;
+}
+.project__link {
+	margin-left: 13px;
+}
