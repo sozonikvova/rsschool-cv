@@ -4,6 +4,10 @@
 	padding: 0;
 }
 
+body {
+	font-family: 'Montserrat', sans-serif;background-color: #f5f7fa;
+}
+
 .wrapper {
 	width: 1200px;
 	margin: 0 auto;
@@ -15,7 +19,7 @@
 }
 
 .about {
-	width: 400px;
+	width: 475px;
 }
 .subtitle {
 	font-weight: 700;
@@ -37,7 +41,7 @@
 }
 
 .projects {
-	margin-top: 40px;
+	margin-top: 30px;
 	width: 485px;
 }
 .title {
@@ -57,4 +61,26 @@
 }
 .project__link {
 	margin-left: 13px;
+}
+.education {
+	margin-top: 30px;
+	width: 327px;
+}
+.title {
+}
+.education__subtitle {
+	margin-top: 12px;
+	font-weight: 700;
+	font-size: 16px;
+	color: #fb6d3a;
+}
+.education__descr {
+	margin-top: 12px;
+	font-weight: 700;
+	font-size: 14px;
+	color: #000;
+}
+
+.education__text {
+	margin-top: 12px;
 }
