@@ -217,8 +217,8 @@ code {
 	width: 1200px;
 	margin: 0 auto;
 	padding: 20px;
-	background-color: #fff;
-	box-shadow: 6px 6px 20px 0 rgba(0, 0, 0, 0.1);
+	background-color: #cacccf;
+	box-shadow: 6px 6px 20px 0 rgba(238, 240, 239, 0.1);
 }
 
 .footer__left {
