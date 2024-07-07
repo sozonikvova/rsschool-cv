@@ -5,7 +5,8 @@
 }
 
 body {
-	font-family: 'Montserrat', sans-serif;background-color: #f5f7fa;
+	font-family: 'Montserrat', sans-serif;
+	background-color: #f5f7fa;
 }
 
 .wrapper {
@@ -14,6 +15,7 @@ body {
 	background-color: #fff;
 	box-shadow: 6px 6px 20px 0 rgba(0, 0, 0, 0.1);
 }
+
 .main-content {
 	padding: 102px 228px 107px 104px;
 }
@@ -21,17 +23,20 @@ body {
 .about {
 	width: 475px;
 }
+
 .subtitle {
 	font-weight: 700;
 	font-size: 14px;
 	color: #000;
 }
+
 .name {
 	margin-top: 19px;
 	font-weight: 700;
 	font-size: 45px;
 	color: #000;
 }
+
 .text {
 	margin-top: 24px;
 	font-weight: 400;
@@ -44,14 +49,18 @@ body {
 	margin-top: 30px;
 	width: 485px;
 }
+
 .title {
 	font-weight: 700;
 	font-size: 22px;
 	color: #000;
 }
+
 .project__list {
+	list-style-position: inside;
 	width: 485px;
 }
+
 .project__item {
 	margin-top: 5px;
 	font-weight: 700;
@@ -59,28 +68,35 @@ body {
 	line-height: 24px;
 	color: #000000;
 }
+
 .project__link {
 	margin-left: 13px;
 }
+
 .education {
 	margin-top: 30px;
-	width: 327px;
+	width: 475px;
 }
-.title {
-}
-.education__subtitle {
+
+.section__subtitle {
 	margin-top: 12px;
 	font-weight: 700;
 	font-size: 16px;
 	color: #fb6d3a;
 }
-.education__descr {
+
+.section__descr {
 	margin-top: 12px;
 	font-weight: 700;
 	font-size: 14px;
 	color: #000;
 }
 
-.education__text {
+.section__text {
 	margin-top: 12px;
+}
+
+.work {
+	margin-top: 30px;
+	width: 475px;
 }
