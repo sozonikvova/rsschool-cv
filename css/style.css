@@ -48,7 +48,6 @@ body {
 
 .projects {
 	margin-top: 30px;
-	width: 485px;
 }
 
 .title {
@@ -59,13 +58,12 @@ body {
 	letter-spacing: 2px;
 }
 
-.project__list {
+.section__list {
 	margin-top: 12px;
 	list-style-position: inside;
-	width: 475px;
 }
 
-.project__item {
+.section__item {
 	margin-top: 5px;
 	font-weight: 700;
 	font-size: 14px;
@@ -73,13 +71,12 @@ body {
 	color: #000000;
 }
 
-.project__link {
+.section__link {
 	margin-left: 13px;
 }
 
 .education {
 	margin-top: 30px;
-	width: 475px;
 }
 
 .section__subtitle {
@@ -124,3 +121,14 @@ code {
 	line-height: 150%;
 }
 /* Code style */
+.courses {
+	margin-top: 30px;
+}
+
+.courses-section__link {
+	text-decoration: none;
+}
+
+.conclusion {
+	margin-top: 30px;
+}
