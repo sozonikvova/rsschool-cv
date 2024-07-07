@@ -27,6 +27,7 @@ body {
 .subtitle {
 	font-weight: 700;
 	font-size: 14px;
+	text-transform: uppercase;
 	color: #000;
 }
 
@@ -54,11 +55,14 @@ body {
 	font-weight: 700;
 	font-size: 22px;
 	color: #000;
+	border-bottom: 2px solid black;
+	letter-spacing: 2px;
 }
 
 .project__list {
+	margin-top: 12px;
 	list-style-position: inside;
-	width: 485px;
+	width: 475px;
 }
 
 .project__item {
@@ -98,5 +102,25 @@ body {
 
 .work {
 	margin-top: 30px;
-	width: 475px;
 }
+
+.code {
+	margin-top: 30px;
+}
+/* Code style */
+pre {
+	margin-top: 12px;
+	height: 360px;
+	background-color: #2d2d2d;
+	padding: 15px;
+	border-radius: 8px;
+	overflow-x: auto;
+	color: #f8f8f2;
+}
+
+code {
+	font-family: 'Montserrat', sans-serif;
+	font-size: 14px;
+	line-height: 150%;
+}
+/* Code style */
