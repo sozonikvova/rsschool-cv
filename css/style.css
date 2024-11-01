@@ -37,10 +37,11 @@ body {
 
 .menu__item {
 	padding: 5px;
+	transition: .3s all linear;
 
 	&:hover {
 		transform: scale(1.5);
-		transition: .3s all linear;
+
 	}
 }
 
