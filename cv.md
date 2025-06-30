@@ -2,6 +2,8 @@
 
 # Volodymyr Sozonik
 
+![Picture](./img/Profile_photo.jpg)
+
 ### Contact info:
 
  * Phone:    +38 (096) 049 40 59              
