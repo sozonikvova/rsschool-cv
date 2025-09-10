@@ -89,9 +89,3 @@ function accum(s) {
 ### Conclusion:
 
 I am passionate about web-development and committed to improving my skills in this area. My background in engineering has given me a strong foundation in technology, adaptability, and communication. I am excited to bring my skills and dedication to a dynamic organization in the web development field.
-
-\
-\
-\
-\
-![RS-School](./icons/logo-rs.svg)
