@@ -43,3 +43,15 @@ function accum(s) {
 ```
 
 ---
+
+### Education:
+
+- Lviv Polytechnic National University, Civil Building and Environmental Engineering. Master's degree.
+
+  September 2016 - January 2021 | Lviv, Ukraine
+
+---
+
+### Work experience:
+
+- Design engineer at the consulting company **"Trio-consult"** (5 years, remote-work).
