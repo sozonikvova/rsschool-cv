@@ -55,3 +55,42 @@ function accum(s) {
 ### Work experience:
 
 - Design engineer at the consulting company **"Trio-consult"** (5 years, remote-work).
+
+### Courses:
+
+- **"WEB-разработчик"** on [Udemy](https://www.udemy.com/share/101Wy23@N0_2LUUIQsHu-vefXfMh61zzeOev0ufrXEBkVkjyhkGxTU9pCHW2SIPxMNgTUDDO0g==/) (completed).
+
+![Udemy-certificate](./img/course-completed.jpg)
+
+- **"Полный курс по JavaScript + React - с нуля до результата"** on [Udemy](https://www.udemy.com/share/101WCC3@oS0CbdT9UUGcfqMXPr6ZRL_tOIpD-y-W4SD__Sn2-HV7NaBiO2US7OuAZLqhfS7BnQ==/) (in process).
+
+---
+
+### Languages:
+
+- Ukrainian (Native, fluent);
+- Russian (Fluent, proficient in daily use);
+- English (Pre-intermediate, conversational, used in a work environment);
+
+---
+
+### Soft Skills:
+
+- Teamwork;
+- Communication;
+- Problem-Solving;
+- Attention to Detail;
+- Continuous Learning;
+- Adaptability.
+
+---
+
+### Conclusion:
+
+I am passionate about web-development and committed to improving my skills in this area. My background in engineering has given me a strong foundation in technology, adaptability, and communication. I am excited to bring my skills and dedication to a dynamic organization in the web development field.
+
+\
+\
+\
+\
+![RS-School](./icons/logo.svg)
