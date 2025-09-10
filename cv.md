@@ -20,8 +20,9 @@ Greetings! I’m a 26-year-old front-end development enthusiast from Ukraine. I'
 
 ### Proficiency and Skills:
 
-- JavaScript Basics;
+- JavaScript;
 - HTML5, CSS3;
+- SASS, FlexBox, Grid;
 - Node.js;
 - Git, GitHub;
 - VS Code;
@@ -93,4 +94,4 @@ I am passionate about web-development and committed to improving my skills in th
 \
 \
 \
-![RS-School](./icons/logo.svg)
+![RS-School](./icons/logo-rs.svg)
