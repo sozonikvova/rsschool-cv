@@ -28,3 +28,18 @@ Greetings! I’m a 26-year-old front-end development enthusiast from Ukraine. I'
 - Figma, Pixso, Skecth.
 
 ---
+
+### Code example:
+
+**The accum function takes a string and returns it in the following format:**
+
+```
+function accum(s) {
+  return s
+    .split('')
+    .map((char, i) => char.toUpperCase() + char.toLowerCase().repeat(i))
+    .join('-');
+}
+```
+
+---
